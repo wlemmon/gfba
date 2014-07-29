@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name       Global Passport
-// @namespace  http://use.i.E.your.homepage/
+// @namespace  https://rawgit.com/wlemmon/gfba/master/global-passport.user.js
 // @version    0.1
 // @description  enter something useful
 // @include     /^https?://.*\.com(:\d+)?/gp/.*$/
