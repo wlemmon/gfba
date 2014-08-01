@@ -5,7 +5,8 @@
 // @updateURL    https://rawgit.com/wlemmon/gfba/master/global-passport.user.js
 // @version    0.1
 // @description  enter something useful
-// @include     /^https?://.*\.com(:\d+)?/gp/.*$/
+// @include     /^https?://sellercentral-ags-eu\.integ\.amazon\.com/.*$/
+// @require  https://code.jquery.com/jquery-1.11.1.min.js
 // @copyright  2012+, You
 // ==/UserScript==
 
